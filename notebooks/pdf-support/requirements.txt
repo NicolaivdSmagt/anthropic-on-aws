@@ -1,0 +1,9 @@
+boto3
+botocore
+anthropic
+Pillow
+pdf2image
+time
+uuid
+base64
+opensearch-py
